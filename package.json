@@ -1,0 +1,20 @@
+{
+  "name": "codetask",
+  "version": "1.0.0",
+  "description": "Javascript code task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Donald Slagle",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "express": "^4.14.0",
+    "qs": "^6.2.0",
+    "request": "^2.73.0"
+  }
+}

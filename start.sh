@@ -1,0 +1,1 @@
+npm install && (echo 'server is running on port 3000' & node index.js)
